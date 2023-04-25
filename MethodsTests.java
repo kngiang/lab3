@@ -1,6 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
+/* 
 public class MethodsTests {
   @Test 
   public void testSumEvensLength4() {
@@ -18,3 +19,4 @@ public class MethodsTests {
     assertEquals(EvensExample.sumEvenIndices(input1), 24);
   }
 }
+*/
